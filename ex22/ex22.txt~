@@ -1,0 +1,51 @@
+print	Skriver ut
+python	Kjøre .py filer eller komme inn i python
+pydoc	python dokumentasjon
+#	kommentar
++=	samme som x = x + 1
+return	returnerer det som er til høyre for syntaxen
+
+Krokkodillemunn:
+>	Større enn
+<	Mindre enn
+>=	Større enn, eller lik
+<=	Mindre enn, eller lik
+=	Lik
+
+
+%d	bruker tall
+%r	bruker alt
+%s	bruker String
+
+/n	Ny linje
+/t	Tab
+\	Escape
+\\	Escape
+“”"	Tripple double, kan skrive text helt til den blir avsluttet 
+
+Matte tegn:
++
+-
+/
+*
+%
+
+raw_input	Leser en string fra input. Typ brukeren som bruker programmet må skrive inn en string. 
+
+open	Åpner en fil
+file	Åpner eller lager en fil
+sys	innebygd modul
+import	importer en modul
+argv	Liste over kommandoline argumenter som passeres gjennom python script. Feks filnavn, string.
+read	Leser innholdet i en fil
+close	Lukker en fil
+readline	Leser en linje fra en fil..
+truncate	Sletter innholdet i en fil, men ikke selve fila. 
+write	Skriver til en fil
+exists	Returnerer “True” hvis stien referer til en eksisterende sti. Returnerer “False” hvis stien ikke stemmer. 
+def	definerer og starter en funksjon.
+*args	pass an argument list, like argvs for functions
+
+
+
+
