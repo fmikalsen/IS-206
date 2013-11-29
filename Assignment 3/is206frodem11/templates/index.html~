@@ -1,0 +1,31 @@
+<html>
+	<h1>IS-206 Assignment 3</h1>
+	<hr>
+	<h2>1</h2>
+	<a href="/birthday"> Birthday</a>
+	<hr>
+	<h2>2</h2>
+	<a href="/rot13"> Rot13</a>
+	<br>
+	<br>
+	<a href="/signup"> Signup</a>
+	<hr>
+	<h2>3</h2>
+	<a href="/blog"> Blog</a>
+	<br>
+	<br>
+	<a href="/blog/newpost"> New Post</a>
+	<hr>
+	<h2>4</h2>
+	<a href="/blog/signup">Signup</a>
+	<br>
+	<br>
+	<a href="/blog/login">Login</a>
+	<br>
+	<br>
+	<a href="/blog/logout">Login</a>
+	<hr>
+
+
+
+</html>
