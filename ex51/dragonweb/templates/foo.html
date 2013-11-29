@@ -1,0 +1,11 @@
+$def with (greeting)
+$if greeting:
+	I just wanted to say hi <em style="color: green; font-size: 2em;">$greeting</em>
+$else:
+	<em>Hello</em>, world!
+<br/>
+<form action="/hello" method="GET">
+
+	<button type="submit" >Back</button>
+
+</form>

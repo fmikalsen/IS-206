@@ -1,0 +1,12 @@
+$def with (content)
+
+<html>
+<head>
+	<title>TADA v0.1</title>
+</head>
+<body>
+
+$:content
+
+</body>
+</html>
